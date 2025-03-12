@@ -1,11 +1,11 @@
-Power BI Project Path Way
-
+**Power BI Project Path Way
+**
 📊 Overview
 
 This project focuses on building an interactive Power BI report for Market City, a multinational grocery chain operating in Canada, Mexico, and the United States. The report covers data transformation, modeling, DAX calculations, and dashboard design to provide business insights.
 
-📂 Project Structure
-
+**📂 Project Structure
+**
 The project is divided into four main parts:
 
 Connecting & Shaping the Data – Import and clean data from multiple sources.
@@ -16,8 +16,8 @@ Adding DAX Measures – Implement calculations for business insights.
 
 Building the Report – Create interactive dashboards and visualizations.
 
-🗂 Data Sources
-
+**🗂 Data Sources
+**
 Market_City_Customers.csv
 
 Market_City_Products.csv
@@ -34,8 +34,8 @@ Market_City_Transactions_1997.csv
 
 Market_City_Transactions_1998.csv
 
-🔍 Key Insights
-
+**🔍 Key Insights
+**
 Total Revenue, Profit, and Profit Margins
 
 Customer Segmentation and Sales Trends
@@ -44,16 +44,16 @@ Product Pricing Strategies
 
 Store Performance Analysis
 
-🛠 Technology Stack
-
+**🛠 Technology Stack
+**
 Power BI – Data visualization and reporting
 
 DAX – Measures and calculations
 
 SQL (optional) – Data transformation (if used externally)
 
-🚀 Setup Instructions
-
+**🚀 Setup Instructions
+**
 Download & Install Power BI Desktop.
 
 Load the Dataset files into Power BI.
